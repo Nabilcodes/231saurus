@@ -40,9 +40,5 @@
   },
   "engines": {
     "node": ">=16.14"
-  },
-  "scripts": {
-  "start": "some command to be run", 
-  "test": "(eslint lib || true) && jest"
   }
 }
