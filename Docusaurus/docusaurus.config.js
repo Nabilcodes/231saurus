@@ -14,7 +14,7 @@ const config = {
   url: 'https://nabilcodes.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://nabilcodes.github.io/',
+  baseUrl: '/231saurus',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
